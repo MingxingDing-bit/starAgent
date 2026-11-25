@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# 本地 Claude 配置（含本地权限，不应提交）
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
